@@ -6,3 +6,6 @@ En esta repositorio dejaré las libretas de Jupyter que utilizamos en el curso.
 - [Condicionales y operadores lógicos](https://www.youtube.com/watch?v=bDF7R2G2neQ&t=142s) y variables: [Libreta](https://github.com/VikSanz/curso_julia_espanol/blob/main/condicionales.ipynb)
 
 No olvides suscribirte a mi **[Canal](https://www.youtube.com/channel/UCysMbdMKB0HWV2eXwX1keAQ)**
+
+Agrego dos nuevas libretas en [Pluto](https://github.com/fonsp/Pluto.jl) que tratan sobre teoría de Percolación.
+
