@@ -7,6 +7,8 @@ En esta repositorio dejaré las libretas de Jupyter que utilizamos en el curso.
 
 No olvides suscribirte a mi **[Canal](https://www.youtube.com/channel/UCysMbdMKB0HWV2eXwX1keAQ)**
 
+
+## Update
 Adicional a esto, subiré algunos proyectos en Julia sobre ML y Física Computacional.😊
 
 Agrego dos nuevas libretas en [Pluto](https://github.com/fonsp/Pluto.jl) que tratan sobre teoría de Percolación.
