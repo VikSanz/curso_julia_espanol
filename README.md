@@ -7,5 +7,8 @@ En esta repositorio dejaré las libretas de Jupyter que utilizamos en el curso.
 
 No olvides suscribirte a mi **[Canal](https://www.youtube.com/channel/UCysMbdMKB0HWV2eXwX1keAQ)**
 
+Adicional a esto, subiré algunos proyectos en Julia sobre ML y Física Computacional.😊
+
 Agrego dos nuevas libretas en [Pluto](https://github.com/fonsp/Pluto.jl) que tratan sobre teoría de Percolación.
 
+Añado una [libreta de Pluto](https://github.com/VikSanz/proyectos_julia/blob/main/sobre_percolacion.jl) con los códigos que utilicé para la competencia de [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview) el cual utiliza un Randome Forest Classifier con una precisión de <b>0.75598</b> en un primer intento.
